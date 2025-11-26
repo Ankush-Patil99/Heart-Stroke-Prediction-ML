@@ -35,21 +35,20 @@ The goal of this project is to:
 
 
 ## ▶️ How to Run
-### 1. Clone the repository
+#### 1. Clone the repository
 ```bash
 git clone https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML.git
 cd Heart-Stroke-Prediction-ML/heart-stroke-prediction
 ```
-
-### 2. Install dependencies
+#### 2. Install dependencies 
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Download Dataset
+#### 3. Download Dataset
 - Download from: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset  
 - Place the CSV file inside:  
   `heart-stroke-prediction/data/`
-### 4. Run prediction script
+#### 4. Run prediction script
 ```bash
 python src/predict.py
 ```
@@ -81,6 +80,7 @@ python src/predict.py
 
 Models were tuned using **GridSearchCV** and evaluated using stratified splits and multiple metrics.
 Class imbalance was addressed using class weighting and threshold tuning to prioritize recall for stroke cases.
+
 ---
 
 ## 📈 Results
