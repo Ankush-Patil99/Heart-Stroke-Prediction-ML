@@ -144,7 +144,7 @@ ROC curve visualization available in `/results` for **Stacking Classifier**.
   - Voting: 0.85
 ### 📌 ROC Curve (Stacking Classifier)
 
-![ROC Curve](./heart-stroke-prediction/results/roc_curve_stacking.png)
+![ROC Curve](https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/blob/main/ROC-AUC%20curve.png)
 
 
 ---
