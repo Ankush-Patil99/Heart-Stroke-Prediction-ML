@@ -35,22 +35,24 @@ The goal of this project is to:
 
 
 ## ▶️ How to Run
+### 1. Clone the repository
+```bash
+git clone https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML.git
+cd Heart-Stroke-Prediction-ML/heart-stroke-prediction
+```
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML.git
-   cd Heart-Stroke-Prediction-ML/heart-stroke-prediction
-2. Install dependencies
-    ```bash
-   pip install -r requirements.txt
-
-3. Download dataset
-    ```bash
-    Download from: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
-    Place the CSV file inside: heart-stroke-prediction/data/
-4.  Run prediction script
-    ```bash
-    python src/predict.py
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Download Dataset
+- Download from: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset  
+- Place the CSV file inside:  
+  `heart-stroke-prediction/data/`
+### 4. Run prediction script
+```bash
+python src/predict.py
+```
 
 ---
 
