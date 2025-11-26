@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-ML-blue)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+
 # 🧠 Heart Stroke Prediction 
 
 An end-to-end Machine Learning project to predict the probability of stroke using clinical and lifestyle data using Logistic Regression, Random forest,XGBoost and ensemble methods.
@@ -33,13 +37,15 @@ The goal of this project is to:
 ## 🏗 Project Structure
 ## 📂 Project Navigation
 
-| Folder | Description | Link |
-|--------|-------------|------|
-| `src/` | Core ML pipeline code | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/src |
-| `models/` | Saved trained models | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/models |
-| `results/` | Plots & evaluation outputs | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/results |
-| `notebooks/` | Full Kaggle notebook | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/notebooks |
-| `data/` | Dataset details | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/data |
+## 📂 Project Navigation
+
+| Folder     | Description              | Link |
+|-----------|--------------------------|------|
+| `src/`    | Core ML pipeline code    | [Open](./heart-stroke-prediction/src) |
+| `models/` | Saved trained models     | [Open](./heart-stroke-prediction/models) |
+| `results/`| Plots & evaluation outputs | [Open](./heart-stroke-prediction/results) |
+| `notebooks/` | Full Kaggle notebook | [Open](./heart-stroke-prediction/notebooks) |
+| `data/`   | Dataset details          | [Open](./heart-stroke-prediction/data) |
 
 
 
