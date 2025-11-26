@@ -1,2 +1,0 @@
-Voting Ensemble:
-TP: 42, FN: 8, FP: 281, TN: 691
