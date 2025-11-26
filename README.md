@@ -4,7 +4,7 @@
 
 # 🧠 Heart Stroke Prediction 
 
-An end-to-end Machine Learning project to predict the probability of stroke using clinical and lifestyle data using Logistic Regression, Random forest,XGBoost and ensemble methods.
+An end-to-end Machine Learning project to predict the probability of stroke using clinical and lifestyle data using Logistic Regression, Random forest, XGBoost and ensemble methods.
 This project focuses heavily on **class imbalance handling, ensemble learning, calibration reliability, and model interpretability**, following industry-style ML practices.
 
 
@@ -33,12 +33,24 @@ The goal of this project is to:
 > Please download it directly from Kaggle and place it inside the `data/` folder if running locally.
 
 
+
 ## ▶️ How to Run
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML.git
    cd Heart-Stroke-Prediction-ML/heart-stroke-prediction
+2. Install dependencies
+    ```bash
+   pip install -r requirements.txt
+
+3. Download dataset
+    ```bash
+    Download from: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+    Place the CSV file inside: heart-stroke-prediction/data/
+4.  Run prediction script
+    ```bash
+    python src/predict.py
 
 ---
 
@@ -127,6 +139,10 @@ ROC curve visualization available in `/results` for **Stacking Classifier**.
   - RF: 0.83
   - XGBoost: 0.84
   - Voting: 0.85
+### 📌 ROC Curve (Stacking Classifier)
+
+![ROC Curve](./heart-stroke-prediction/results/roc_curve_stacking.png)
+
 
 ---
 
@@ -154,6 +170,7 @@ These align with real-world clinical risk factors, increasing trust in model beh
   - Stroke Recall = **0.84**
   - Best ROC-AUC = **0.85**
 - This makes it the most clinically suitable model despite lower accuracy.
+> This project focuses on **real clinical trade-offs**, not just leaderboard metrics.
 
 ---
 
