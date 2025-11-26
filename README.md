@@ -31,7 +31,15 @@ The goal of this project is to:
 ---
 
 ## 🏗 Project Structure
+## 📂 Project Navigation
 
+| Folder | Description | Link |
+|--------|-------------|------|
+| `src/` | Core ML pipeline code | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/src |
+| `models/` | Saved trained models | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/models |
+| `results/` | Plots & evaluation outputs | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/results |
+| `notebooks/` | Full Kaggle notebook | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/notebooks |
+| `data/` | Dataset details | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/data |
 
 
 
