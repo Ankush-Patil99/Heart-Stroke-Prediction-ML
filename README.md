@@ -53,6 +53,7 @@ pip install -r requirements.txt
 ```bash
 python src/predict.py
 ```
+> Pre-trained models are already included in the `models/` folder, so you don’t need to retrain them.
 
 ---
 
@@ -79,7 +80,7 @@ python src/predict.py
 - Stacking Ensemble  
 
 Models were tuned using **GridSearchCV** and evaluated using stratified splits and multiple metrics.
-
+Class imbalance was addressed using class weighting and threshold tuning to prioritize recall for stroke cases.
 ---
 
 ## 📈 Results
