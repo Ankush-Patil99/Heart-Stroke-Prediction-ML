@@ -32,10 +32,15 @@ The goal of this project is to:
 > The dataset is not uploaded due to licensing.  
 > Please download it directly from Kaggle and place it inside the `data/` folder if running locally.
 
----
 
-## 🏗 Project Structure
-## 📂 Project Navigation
+## ▶️ How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML.git
+   cd Heart-Stroke-Prediction-ML/heart-stroke-prediction
+
+---
 
 ## 📂 Project Navigation
 
