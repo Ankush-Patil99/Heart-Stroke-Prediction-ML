@@ -35,11 +35,11 @@ The goal of this project is to:
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| `src/` | Core ML pipeline code | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/src |
-| `models/` | Saved trained models | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/models |
-| `results/` | Plots & evaluation outputs | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/results |
-| `notebooks/` | Full Kaggle notebook | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/notebooks |
-| `data/` | Dataset details | https://github.com/Ankush-Patil99/heart-stroke-prediction/tree/main/data |
+| `src/` | Core ML pipeline code | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/src |
+| `models/` | Saved trained models | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/models |
+| `results/` | Plots & evaluation outputs | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/results |
+| `notebooks/` | Full Kaggle notebook | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/notebooks |
+| `data/` | Dataset details | https://github.com/Ankush-Patil99/Heart-Stroke-Prediction-ML/tree/main/heart-stroke-prediction/data |
 
 
 
